@@ -7,13 +7,15 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
 ![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)
 
-**A Python tool that ensures complete defensive visibility by mapping Wazuh detection rules to the MITRE ATT&CK framework.**  
+**I created this Python tool to help companies ensure complete defensive visibility by mapping Wazuh detection rules to the MITRE ATT&CK framework.**  
+
 It helps organizations verify that safeguards exist for every known adversary technique, exposing detection gaps before attackers can exploit them.
 
 ---
 
 ## 🛡️ Overview
 Modern SOC teams manage hundreds of detection rules, yet few know which attack techniques are truly covered.  
+
 **The Wazuh Rule Coverage Analyzer** automates that process by parsing Wazuh rulesets, mapping them to MITRE ATT&CK tactics, and generating an interactive report that highlights coverage completeness across all stages of an attack.
 
 ---
