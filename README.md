@@ -43,7 +43,6 @@ This tool gives security teams measurable confidence that their environment is p
 | 🕸️ **MITRE ATT&CK** | Framework for mapping adversary techniques |
 | 🧾 **Pandas** | Data transformation and tabular reporting |
 | 🧩 **lxml** | XML rule parsing |
-| 🧮 **Jinja2** | HTML template rendering |
 
 ---
 
