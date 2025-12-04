@@ -49,6 +49,7 @@ This tool gives security teams measurable confidence that their environment is p
 ## 📈 Example Output
 - Interactive HTML report with color-coded rule coverage by MITRE tactic  
 - CSV export of rule-to-technique mappings for data visualization or dashboard integration  
+<img width="1779" height="1249" alt="image" src="https://github.com/user-attachments/assets/b0c21900-7895-498a-a634-0f30d8c09ce8" />
 
 ---
 
