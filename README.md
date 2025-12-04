@@ -53,11 +53,6 @@ This tool gives security teams measurable confidence that their environment is p
 
 ---
 
-## Author
-Created by **Avigail Laing**: a cybersecurity student and blue team analyst passionate about detection engineering and defensive automation.
-
----
-
 ## 🌐 Useful Links
 🔗 [MITRE ATT&CK Framework](https://attack.mitre.org/)  
 🔗 [Wazuh Documentation](https://documentation.wazuh.com/)  
