@@ -13,14 +13,14 @@ It helps organizations verify that safeguards exist for every known adversary te
 
 ---
 
-## 🛡️ Overview
+## Overview
 Modern SOC teams manage hundreds of detection rules, yet few know which attack techniques are truly covered.  
 
 **The Wazuh Rule Coverage Analyzer** automates that process by parsing Wazuh rulesets, mapping them to MITRE ATT&CK tactics, and generating an interactive report that highlights coverage completeness across all stages of an attack.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - 📂 **Rule Parsing** — Extracts rule IDs, descriptions, and groups from Wazuh XML or JSON files.  
 - 🎯 **MITRE ATT&CK Mapping** — Correlates rules with ATT&CK tactics and techniques to verify detection scope.  
 - 🧠 **Gap Identification** — Highlights uncovered or weakly mapped techniques for immediate improvement.  
@@ -29,7 +29,7 @@ Modern SOC teams manage hundreds of detection rules, yet few know which attack t
 
 ---
 
-## 💡 Why It Matters
+## Why It Matters
 Every defensive control should map back to a known adversary behavior.  
 This tool gives security teams measurable confidence that their environment is protected across the entire MITRE ATT&CK matrix — ensuring no critical technique is left unmonitored.
 
@@ -46,15 +46,15 @@ This tool gives security teams measurable confidence that their environment is p
 
 ---
 
-## 📈 Example Output
+## Example Output
 - Interactive HTML report with color-coded rule coverage by MITRE tactic  
 - CSV export of rule-to-technique mappings for data visualization or dashboard integration  
 <img width="1779" height="1249" alt="image" src="https://github.com/user-attachments/assets/b0c21900-7895-498a-a634-0f30d8c09ce8" />
 
 ---
 
-## 👤 Author
-Created by **Avigail Laing** — cybersecurity student and blue team analyst passionate about detection engineering and defensive automation.
+## Author
+Created by **Avigail Laing**: a cybersecurity student and blue team analyst passionate about detection engineering and defensive automation.
 
 ---
 
