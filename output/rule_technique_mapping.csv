@@ -1,0 +1,4 @@
+rule_id,rule_description,technique_id,technique_name,tactic
+100001,Multiple failed password attempts on SSH,T1110,Brute Force,Credential Access
+100002,Suspicious PowerShell command execution,T1059,Command and Scripting Interpreter,Execution
+100005,Encoded PowerShell command detected,T1059,Command and Scripting Interpreter,Execution

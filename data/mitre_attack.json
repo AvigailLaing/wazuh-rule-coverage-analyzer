@@ -1,0 +1,21 @@
+[
+  {
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access",
+    "keywords": ["brute force", "failed password", "login failure"]
+  },
+  {
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "tactic": "Execution",
+    "keywords": ["powershell", "bash", "shell command"]
+  },
+  {
+    "technique_id": "T1041",
+    "technique_name": "Exfiltration Over C2 Channel",
+    "tactic": "Exfiltration",
+    "keywords": ["data exfiltration", "c2 channel", "outbound connection"]
+  }
+]
+

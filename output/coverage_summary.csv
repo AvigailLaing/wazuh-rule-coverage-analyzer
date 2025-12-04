@@ -1,0 +1,4 @@
+technique_id,technique_name,tactic,keywords,rule_count,coverage_level
+T1110,Brute Force,Credential Access,"['brute force', 'failed password', 'login failure']",1,partial
+T1059,Command and Scripting Interpreter,Execution,"['powershell', 'bash', 'shell command']",2,high
+T1041,Exfiltration Over C2 Channel,Exfiltration,"['data exfiltration', 'c2 channel', 'outbound connection']",0,none

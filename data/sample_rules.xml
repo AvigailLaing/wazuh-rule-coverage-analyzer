@@ -1,0 +1,27 @@
+
+<group name="sample_rules">
+  <rule id="100001">
+    <description>Multiple failed password attempts on SSH</description>
+    <group>authentication, ssh, brute force</group>
+  </rule>
+
+  <rule id="100002">
+    <description>Suspicious PowerShell command execution</description>
+    <group>windows, powershell, execution</group>
+  </rule>
+  <rule id="100003">
+    <description>Periodic network heartbeat (benign)</description>
+    <group>network, heartbeat</group>
+  </rule>
+
+  <rule id="100004">
+    <description>Generic system event with no clear mapping</description>
+    <group>system, misc</group>
+  </rule>
+
+  <rule id="100005">
+    <description>Encoded PowerShell command detected</description>
+    <group>windows, powershell, suspicious</group>
+  </rule>
+</group>
+
